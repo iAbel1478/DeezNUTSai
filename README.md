@@ -1,5 +1,7 @@
 # DeezNuts.AI 🥜
 
+URL: https://deez-nut-sai.vercel.app/
+
 An AI-powered knock-knock joke generator that always ends with "deez nuts". Built with React, TypeScript, and Tailwind CSS.
 
 ## Features
